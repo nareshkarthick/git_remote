@@ -1,1 +1,2 @@
-this is sample2 text file from git_remote folder 
+this is sample2 text file from git_remote folder .
+
